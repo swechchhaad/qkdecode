@@ -7,7 +7,7 @@
 ├── src/            # core protocol implementation
 │   ├── bb84.py     # bb84 protocol
 │   └── channel.py  # noisy quantum channel model
-├── exp/            # expeeriments and analysis
+├── exp/            # experiments and analysis
 │   └── simulation.py
 ├── paper/          # final report (LaTeX)
 │   ├── main.tex
